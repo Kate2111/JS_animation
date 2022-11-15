@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kate2111.github.io/Project5_Food/JS_animation/",
+  "homepage": "https://kate2111.github.io/JS_animation/",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
